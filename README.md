@@ -1,1 +1,1 @@
-# example4g
+# example4g [![Build Status](https://travis-ci.org/vvatanabe/example4g.svg?branch=master)](https://travis-ci.org/vvatanabe/example4g)
