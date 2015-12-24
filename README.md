@@ -1,1 +1,1 @@
-# example4g [![Build Status](https://travis-ci.org/vvatanabe/example4g.svg?branch=master)](https://travis-ci.org/vvatanabe/example4g)
+# example4g [![Build Status](https://travis-ci.org/vvatanabe/example4g.svg?branch=master)](https://travis-ci.org/vvatanabe/example4g) [![Coverage Status](https://coveralls.io/repos/vvatanabe/example4g/badge.svg?branch=master&service=github)](https://coveralls.io/github/vvatanabe/example4g?branch=master)
